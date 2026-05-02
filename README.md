@@ -1,4 +1,4 @@
-# Program Hitung Tarif Tol (Golongan Kendaraan)
+# Program Hitung Diskon Tarif Tol
 
 Program Python untuk menghitung tarif tol berdasarkan golongan kendaraan, jarak tempuh, dan hari, kemudian memberikan diskon sesuai kondisi tertentu.  
 Project ini dibuat sebagai implementasi materi dasar Python seperti input/output, percabangan, perulangan, dan fungsi.
